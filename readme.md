@@ -1,6 +1,6 @@
 # Monalisa
 
-A Monalisa é um projeto que combina o uso do Express.js, um framework web para Node.js, com um boirplate. Ele foi criado para simplificar o processo de criação de aplicativos web, fornecendo uma estrutura inicial robusta e flexível.
+A Monalisa é um projeto que combina o uso do Express.js, um framework web para Node.js, com um boilerplate. Ele foi criado para simplificar o processo de criação de aplicativos web, fornecendo uma estrutura inicial robusta e flexível.
 
 ## Características Principais
 
